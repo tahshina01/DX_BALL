@@ -1,1 +1,1 @@
-![Affinity Diagram](affinity diagram.jpg)
+![Affinity Diagram](affinity%20diagram.jpg)
